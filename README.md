@@ -73,3 +73,12 @@ Salut 👋, moi c'est **Mini Dev Fidel**.
 <sub>Built with curiosity by Mini Dev Fidel 💙</sub>
 
 </div>
+---
+
+## 🐍 MY CONTRIBUTION SNAKE
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/testjust019-xd/testjust019-xd/output/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/testjust019-xd/testjust019-xd/output/github-contribution-grid-snake-dark.svg)
+
+---
